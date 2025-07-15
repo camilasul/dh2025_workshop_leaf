@@ -159,7 +159,7 @@
             <lg n="20" xml:id="lg020">
                <l n="58"><persName cert="high" type="real" xml:id="Abraham">Abraham</persName>, patriarch, and <persName xml:id="KingD">David, king</persName>,</l>
                <l n="59">Israel with his father and his children,</l>
-               <l n="60">And Rachel, for whose sake he did so much,</l>
+               <l n="60">And <persName cert="high" type="fictional" xml:id="Rachel">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
 
             <lg n="21" xml:id="lg021">
