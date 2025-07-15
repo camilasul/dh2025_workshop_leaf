@@ -285,7 +285,7 @@
             <lg n="41" xml:id="lg041">
                <l n="121">I saw <persName cert="high" type="fictional" xml:id="Electra">Electra</persName> with companions many,</l>
                <l n="122">’Mongst whom I knew both <persName xml:id="Hector">Hector</persName> and Aeneas,</l>
-               <l n="123">Caesar in armour with gerfalcon eyes;</l>
+               <l n="123"><persName cert="high" type="real" xml:id="Caesar">Caesar</persName> in armour with gerfalcon eyes;</l>
             </lg>
 
             <lg n="42" xml:id="lg042">
