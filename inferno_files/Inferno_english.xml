@@ -325,8 +325,8 @@
             </lg>
 
             <lg n="48" xml:id="lg048">
-               <l n="142">Euclid, geometrician, and Ptolemy,</l>
-               <l n="143">Galen, Hippocrates, and Avicenna,</l>
+               <l n="142"><persName cert="high" type="real" xml:id="Euclid">Euclid</persName>, geometrician, and Ptolemy,</l>
+               <l n="143">Galen, <persName xml:id="Hippocrates">Hippocrates</persName>, and Avicenna,</l>
                <l n="144">Averroes, who the great Comment made.</l>
             </lg>
 
